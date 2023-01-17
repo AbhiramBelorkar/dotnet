@@ -1,0 +1,27 @@
+@using BOL;
+@model Player;
+@{
+    ViewData["Title"] = "Insert Page";
+}
+<h2>Add new Player</h2>
+<hr/>
+<form method="post" action="/player/insert">
+  <div class="form-group">
+    <label for="Id">Id:</label>
+    <input type="number" id="Id" class="form-control" asp-for="Id">
+  </div>
+  <div class="form-group">
+    <label for="Name">Name:</label>
+    <input type="text" id="Name" class="form-control" asp-for="Name">
+  </div>
+  <div class="form-group">
+    <label for="City">City:</label>
+    <input type="text" id="City" class="form-control" asp-for="City">
+  </div>
+  <div class="form-group">
+    <label for="Matches">Matches:</label>
+    <input type="number" id="Matches" class="form-control" asp-for="Matches">
+  </div>
+
+  <button type="submit" class="btn btn-default">Submit</button>
+</form>

@@ -1,0 +1,17 @@
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\obj\Debug\net7.0\BLL.csproj.AssemblyReference.cache
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\obj\Debug\net7.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\obj\Debug\net7.0\BLL.AssemblyInfoInputs.cache
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\obj\Debug\net7.0\BLL.AssemblyInfo.cs
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\obj\Debug\net7.0\BLL.csproj.CoreCompileInputs.cache
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\bin\Debug\net7.0\BLL.deps.json
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\bin\Debug\net7.0\BLL.dll
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\bin\Debug\net7.0\BLL.pdb
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\bin\Debug\net7.0\BOL.dll
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\bin\Debug\net7.0\DAL.dll
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\bin\Debug\net7.0\BOL.pdb
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\bin\Debug\net7.0\DAL.pdb
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\obj\Debug\net7.0\BLL.csproj.CopyComplete
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\obj\Debug\net7.0\BLL.dll
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\obj\Debug\net7.0\refint\BLL.dll
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\obj\Debug\net7.0\BLL.pdb
+D:\CDAC\Dotnet\workspace\PlayerSystem\BLL\obj\Debug\net7.0\ref\BLL.dll

@@ -1,0 +1,25 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Details Page";
+}
+
+<h1>Details</h1>
+<hr>
+<div>
+    @{
+          Console.WriteLine("In Details");
+        Player thePlayer = ViewData["details"] as Player;
+        <p> Id: @thePlayer.Id</p>
+        <p> Name: <b> <u></u>@thePlayer.Name</b></p>
+        <p> City: @thePlayer.City</p>
+        <p> Matches: @thePlayer.Matches</p>
+
+        <form method="post" action="/player/update/@thePlayer.Id">
+            <button type="submit" class="btn btn-default">Update</button>
+        </form>
+
+        <form method="post" action="/player/delete/@thePlayer.Id">
+            <button type="submit" class="btn btn-default">Delete</button>
+        </form>
+    }
+</div>

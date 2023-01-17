@@ -1,0 +1,28 @@
+@using BOL;
+@model Player;
+@{
+    ViewData["Title"] = "Update Page";
+}
+<h2>Update a Player</h2>
+@* action="/player/update/" *@
+<hr/>
+<form method="post" action="/player/update">
+  <div class="form-group">
+    <label for="Id">Id:</label>
+    <input type="number" id="Id" class="form-control" asp-for="Id" readonly>
+  </div>
+  <div class="form-group">
+    <label for="Name">New Name:</label>
+    <input type="text" id="Name" class="form-control" asp-for="Name" placeholder="Enter new name">
+  </div>
+  <div class="form-group">
+    <label for="City">City:</label>
+    <input type="text" id="City" class="form-control" asp-for="City" placeholder="Enter new city">
+  </div>
+  <div class="form-group">
+    <label for="Matches">Matches:</label>
+    <input type="number" id="Matches" class="form-control" asp-for="Matches" placeholder="Enter new matches">
+  </div>
+
+  <button type="submit" class="btn btn-default">Submit</button>
+</form>

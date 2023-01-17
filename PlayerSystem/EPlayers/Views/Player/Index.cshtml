@@ -1,0 +1,23 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Index Page";
+}
+
+<div>
+    <h2>List of Players</h2>
+    @{
+        List<Player> allPlayers = (List<Player>)ViewData["players"];
+        <ol>
+            @foreach (Player p in allPlayers)
+            {
+                <li> <a href="/player/details/@p.Id">@p.Name</a></li>
+            }
+        </ol>
+    }
+</div>
+
+<div>
+    <form method="post" action="/player/insert">
+        <button type="submit" class="btn btn-default">Insert</button>
+    </form>
+</div>
