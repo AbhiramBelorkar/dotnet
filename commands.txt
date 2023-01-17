@@ -1,0 +1,12 @@
+dotnet new sln
+dotnet new console -o Test
+dotnet new classlib -o BOL
+dotnet sln add Test/Test.csproj
+dotnet add reference ../BOL/BOL.csproj
+
+dotnet add package mysql.data
+dotnet new mvc -o PlayerSystem
+
+dotnet build
+dotnet run
+dotnet watch run
