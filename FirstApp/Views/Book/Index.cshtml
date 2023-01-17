@@ -1,0 +1,26 @@
+@using FirstApp.Models;
+@{
+    ViewData["Title"] = "Book Details";
+}
+
+<h1>Book</h1>
+<hr />
+<div class="text-center">
+    @{
+        List<Book> allBooks = (List<Book>)ViewData["library"];
+        <ol>
+            @foreach (Book b in allBooks)
+            {
+                if (b != null)
+                {
+                    <li>@b.Name</li>
+                    <li>@b.Author</li>
+                    <li>@b.Price</li>
+                    <li>@b.Stars</li>
+                }
+
+            }
+        </ol>
+    }
+    <hr />
+</div>

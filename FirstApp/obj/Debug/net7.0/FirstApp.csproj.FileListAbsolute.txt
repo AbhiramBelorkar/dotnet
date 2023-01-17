@@ -1,0 +1,62 @@
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\bin\Debug\net7.0\appsettings.Development.json
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\bin\Debug\net7.0\appsettings.json
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\bin\Debug\net7.0\FirstApp.staticwebassets.runtime.json
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\bin\Debug\net7.0\FirstApp.exe
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\bin\Debug\net7.0\FirstApp.deps.json
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\bin\Debug\net7.0\FirstApp.runtimeconfig.json
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\bin\Debug\net7.0\FirstApp.dll
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\bin\Debug\net7.0\FirstApp.pdb
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.csproj.AssemblyReference.cache
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.AssemblyInfoInputs.cache
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.AssemblyInfo.cs
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.csproj.CoreCompileInputs.cache
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.MvcApplicationPartsAssemblyInfo.cache
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.RazorAssemblyInfo.cache
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.RazorAssemblyInfo.cs
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.FirstApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FirstApp.props
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FirstApp.props
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FirstApp.props
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\staticwebassets.build.json
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\staticwebassets.development.json
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\scopedcss\bundle\FirstApp.styles.css
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\scopedcss\projectbundle\FirstApp.bundle.scp.css
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.dll
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\refint\FirstApp.dll
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.pdb
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.genruntimeconfig.cache
+D:\CDAC\Dotnet\workspace\Day8\FirstApp\obj\Debug\net7.0\ref\FirstApp.dll
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\bin\Debug\net7.0\appsettings.Development.json
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\bin\Debug\net7.0\appsettings.json
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\bin\Debug\net7.0\FirstApp.staticwebassets.runtime.json
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\bin\Debug\net7.0\FirstApp.exe
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\bin\Debug\net7.0\FirstApp.deps.json
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\bin\Debug\net7.0\FirstApp.runtimeconfig.json
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\bin\Debug\net7.0\FirstApp.dll
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\bin\Debug\net7.0\FirstApp.pdb
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.csproj.AssemblyReference.cache
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.AssemblyInfoInputs.cache
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.AssemblyInfo.cs
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.csproj.CoreCompileInputs.cache
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.MvcApplicationPartsAssemblyInfo.cache
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.RazorAssemblyInfo.cache
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.RazorAssemblyInfo.cs
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.FirstApp.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.build.FirstApp.props
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.FirstApp.props
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.FirstApp.props
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\staticwebassets.pack.json
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\staticwebassets.build.json
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\staticwebassets.development.json
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\scopedcss\bundle\FirstApp.styles.css
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\scopedcss\projectbundle\FirstApp.bundle.scp.css
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.dll
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\refint\FirstApp.dll
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.pdb
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\FirstApp.genruntimeconfig.cache
+G:\Abhiram_Shreyansh\.Net\Local Repository\dotnet\Workspace\Day8\FirstApp\obj\Debug\net7.0\ref\FirstApp.dll
